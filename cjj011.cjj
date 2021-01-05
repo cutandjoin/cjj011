@@ -1,4 +1,4 @@
-#CJJ sw=2,it=1,pv=1,dd=1,cr=3,mr=3,jo=1,em=1
+#CJJ sw=2,it=1,pv=1,dd=1,ri=1,rt=1,rc=2,mi=1,mt=1,mc=2,dr=1,jo=1,em=1,sn=cjj011
 #DIRINDEX 1\2,1\3
 #DIRNAME DUOelementsフレーズセクションごと,基本,応用
 #TAG TIT2=<filename>,TPE1=DUOelements,TALB=DUOelements
